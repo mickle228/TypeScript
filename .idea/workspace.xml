@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="967025fb-6f76-428e-915b-a71315ef0525" name="Changes" comment="gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypeScript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-    </list>
+    <list default="true" id="967025fb-6f76-428e-915b-a71315ef0525" name="Changes" comment="Task add delete button" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702838027637</updated>
       <workItem from="1702838028717" duration="2735000" />
-      <workItem from="1703579772908" duration="11070000" />
+      <workItem from="1703579772908" duration="11424000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -91,7 +83,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702838404096</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task add delete button">
+      <option name="closed" value="true" />
+      <created>1703595438843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703595438843</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task add delete button">
+      <option name="closed" value="true" />
+      <created>1703595463657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703595463657</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task add delete button">
+      <option name="closed" value="true" />
+      <created>1703595559471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703595559471</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="Task add delete button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task add delete button" />
   </component>
 </project>
